@@ -1,7 +1,3 @@
-//
-//  SpiceCabinetApp.swift
-//  
-//
-//  Created by Daniel Larson on 7/9/25.
-//
+// App entry point
+// created by Daniel Larson on 7/9/25.
 
